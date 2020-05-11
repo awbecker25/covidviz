@@ -8,5 +8,5 @@ The included jupyter notebook creates two choropleth, natural breaks maps of Mar
 Repository files:
   1. "COVID-19 MD County Choropleths.ipynb" is a jupyter notebook containing the Python3 code
   2. "mdcounty2018pop.csv" is a dataset containing ACS 5-year estimates for 2018 total population of each Maryland county
-  3. "ratemap.png" is an image file created by the code. It shows a map of incidence rates by county, which accouns for differences in county populations.
+  3. "ratemap.png" is an image file created by the code. It shows a map of incidence rates by county, which account for differences in county populations.
   4. "totalcasemap.png" is an image file created by the code. It shows a map of total cases by county.
